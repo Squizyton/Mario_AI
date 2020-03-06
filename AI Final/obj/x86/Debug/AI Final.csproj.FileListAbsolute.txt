@@ -1,0 +1,86 @@
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\1.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\AI Final.exe
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\AI Final.pdb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\obj\x86\Debug\AI Final.csprojAssemblyReference.cache
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\obj\x86\Debug\AI Final.csproj.CoreCompileInputs.cache
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\obj\x86\Debug\AI Final.csproj.CopyComplete
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\obj\x86\Debug\AI Final.exe
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\obj\x86\Debug\AI Final.pdb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Sprites\player.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Sprites\goomba.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\2.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Sprites\DeadGoomba.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Overworld.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\obj\x86\Debug\AI Final.exe
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\obj\x86\Debug\AI Final.pdb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Overworld.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Sprites\DeadGoomba.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Sprites\goomba.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Sprites\player.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\1.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\2.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\AI Final.exe
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\AI Final.pdb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\obj\x86\Debug\AI Final.csprojResolveAssemblyReference.cache
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\10.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\11.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\12.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\13.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\15.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\16.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\4.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\5.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\6.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\7.xnb
+C:\Users\SirMcsquizy\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\9.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\10.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\11.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\12.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\13.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\15.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\16.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\4.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\5.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\6.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\7.xnb
+C:\Users\008001163\OneDrive - New England Institute of Technology\Quarter 8\AI\Week 9-10\AI Final\AI Final\bin\Windows\x86\Debug\Content\Tiles\9.xnb
